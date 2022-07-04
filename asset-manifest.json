@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/booking-app-ui-React/static/css/main.29faec28.css",
+    "main.js": "/booking-app-ui-React/static/js/main.96a5fbac.js",
+    "static/media/11.jpg": "/booking-app-ui-React/static/media/11.aa099570da7aaa2304b4.jpg",
+    "static/media/3.png": "/booking-app-ui-React/static/media/3.4dfc2ce1c66285de09be.png",
+    "static/media/9.jpg": "/booking-app-ui-React/static/media/9.fb33b4db600f610df1eb.jpg",
+    "static/media/10.jpg": "/booking-app-ui-React/static/media/10.ed24f904f5f1a991cac3.jpg",
+    "static/media/12.jpg": "/booking-app-ui-React/static/media/12.de9ebc1fa38bece6eded.jpg",
+    "static/media/5.jpg": "/booking-app-ui-React/static/media/5.7e5baee92784f2465748.jpg",
+    "static/media/7.jpg": "/booking-app-ui-React/static/media/7.ebd4acad3928745fc371.jpg",
+    "static/media/6.jpg": "/booking-app-ui-React/static/media/6.1271457924eb6fd666e8.jpg",
+    "static/media/2.jpg": "/booking-app-ui-React/static/media/2.213b3d67653591b0c2d6.jpg",
+    "static/media/4.jpg": "/booking-app-ui-React/static/media/4.8c96ccf17d2440ef02c0.jpg",
+    "static/media/8.jpg": "/booking-app-ui-React/static/media/8.ebdba2c8c75976d72437.jpg",
+    "index.html": "/booking-app-ui-React/index.html",
+    "main.29faec28.css.map": "/booking-app-ui-React/static/css/main.29faec28.css.map",
+    "main.96a5fbac.js.map": "/booking-app-ui-React/static/js/main.96a5fbac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29faec28.css",
+    "static/js/main.96a5fbac.js"
+  ]
+}
